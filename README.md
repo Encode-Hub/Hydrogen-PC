@@ -52,8 +52,8 @@ how to disable real-time protection?
 
 ### RUNNING
 1. after going to the builder file, you will see a debugger BAT file and exe file.
-2. Right click and run the exe file with or without Administrator permissions.
-3. (optional) if exe isn't running properly, run the bat file or try to run it in administrator.
+2. Right click and run the exe file with or without permissions.
+3. (optional) if exe isn't running properly, run the bat file in administrator.
 
 ## HELP support🎟️
 IF file not working then create an issue ticket and inform us so we can make sure that the executor is working properly.
