@@ -10,10 +10,6 @@
 
 hydrogen been known mainly for mobile-mac executor because of that most players can't use this executor, so we represent you a deprecated version of hydrogen that's been created purposely for windows above 9.
 
-SKIP
-
-[INSTALLATION⬇️](#INSTALLATION⬇️)
-
 ## Table Of Contents📋
 ![Version](https://img.shields.io/badge/CONTENTS-blue.svg?maxAge=259200)
 
