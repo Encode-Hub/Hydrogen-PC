@@ -54,7 +54,7 @@ how to disable real-time protection?
 2. Right click and run the exe file with or without permissions.
 3. (optional) if exe isn't running properly, run the bat file in administrator.
 
-## HELP support🎟️
+## HELP SUPPORT🎟️
 IF file not working then create an issue ticket and inform us so we can make sure that the executor is working properly.
 
 how to make a ticket?
