@@ -12,7 +12,7 @@ hydrogen been known mainly for mobile-mac executor because of that most players 
 
 SKIP
 
-[Table Of Contents📋](##-Table-Of-Contents📋)
+[INSTALLATION⬇️](##-INSTALLATION⬇️)
 
 ## Table Of Contents📋
 ![Version](https://img.shields.io/badge/CONTENTS-blue.svg?maxAge=259200)
