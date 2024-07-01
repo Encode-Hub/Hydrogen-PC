@@ -41,7 +41,7 @@ Our team are planning to create a website for the Projects and other future deve
 
 ### RUNNING 🛠️
 1. after going to the builder file, you will see a debugger BAT file and exe file.
-2. Right click and run the exe file with or without admin permissions.
+2. Right click and run the exe file.
 3. (optional) if exe isn't running properly, run the bat file in administrator.
 
 ### IMPORTANT📢
